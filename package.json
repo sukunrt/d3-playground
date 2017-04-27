@@ -1,0 +1,17 @@
+{
+  "name": "playgroud",
+  "version": "1.0.0",
+  "description": "random playgroud",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sukun",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "d3": "^4.8.0",
+    "webpack": "^2.4.1"
+  }
+}
